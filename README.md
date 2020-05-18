@@ -37,7 +37,7 @@ you.
 
 Clone the Git repository from GitHub
 
-    git clone https://github.com/aljarrahcs/EvoloPy-FS.git
+    git clone https://github.com/aljarrahcs/EvoloPy-FS.git , https://github.com/rubaabukhurma/EvoloPy-FS.git
 
 
 ## Quick User Guide
@@ -101,8 +101,8 @@ The results file contains the following measures:
     
 
 ## Contribute
-- Issue Tracker: https://github.com/aljarrahcs/EvoloPy-FS/issues  
-- Source Code: https://github.com/aljarrahcs/EvoloPy-FS
+- Issue Tracker: https://github.com/aljarrahcs/EvoloPy-FS/issues, https://github.com/rubaabukhurma/EvoloPy-FS/issues.
+- Source Code: https://github.com/aljarrahcs/EvoloPy-FS , https://github.com/rubaabukhurma/EvoloPy-FS
 
 ## Support
 
